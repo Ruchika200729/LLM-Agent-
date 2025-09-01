@@ -2,7 +2,7 @@
  * LLM Agent - Advanced AI Assistant
  * NavyaAI - Advanced AI Assistant
 * v2.8.0 (Updated: AI Pipe integration + bug fixes)
-* Author: Jay Kumar (Original) & Assistant (fixes)
+* Author: Ruchika (Original) & Assistant (fixes)
 */
 class LLM Agent {
 class NavyaAI {
